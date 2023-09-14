@@ -5,12 +5,18 @@ Building a system that can predict whether a person has diabetes or not with the
 ***Steps Followed-***
 
 **Importing the required Dependencies-** Importing all the required libraries for our model.
+
 **Data Collection and Analysis-** Load the PIMA Diabetes Dataset and analyse it
+
 **Separating the features and data-** Label 0 will correspond to Non-Diabetic. Label 1 with correspond to Diabetic.
+
 **Data Standarization-** Standarizing the data in a particular range
+
 **Split the data into Training data & Testing-** For 80% of data  is stored in X_train and corresponding labels Y_train. Similarly 20% of data is stored in X_test and corresponding labels in Y_test.
+
  **Data Model Evaluation-** Accuracy score of the training data :  0.7866449511400652.
 Accuracy score of the test data :  0.7727272727272727.
+
 **Building a Predictive System-** This is the last step.This gives the result whether a person has diabetes or not.
 
 
